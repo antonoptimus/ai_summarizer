@@ -4,7 +4,7 @@ Summarizer is a web application designed to provide users with concise summaries
 
 ## Preview 👁️
 
-![Preview image](public\summarizer.gif)
+![Preview image](public/summarizer.gif)
 
 ## Technologies Used 🛠️
 
