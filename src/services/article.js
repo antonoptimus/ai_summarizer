@@ -9,7 +9,7 @@ export const articleApi = createApi({
     prepareHeaders: (headers) => {
       headers.set(
         "X-RapidAPI-Key",
-        ""
+        "e830cfae0cmshde377402578f6e3p1a99e9jsn60b4e5c5317b"
       );
       headers.set(
         "X-RapidAPI-Host",
